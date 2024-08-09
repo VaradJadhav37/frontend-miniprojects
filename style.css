@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+.btn{
+    border: solid;
+    border-radius: 20%;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+.one{
+    background-color: brown;
+}
+.two{
+    background-color: coral;
+}
+.three{
+    background-color: blueviolet;
+}
+.four{
+    background-color: cornflowerblue;
+}
+.container{
+    border: none;
+    display: flex;
+    justify-content: center;
+}
+.flash{
+    background-color: white;
+}
